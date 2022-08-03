@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Dataset
+Data
+
+# Weights
+ccp/efcnt_model.h5
+ccp/vvg16_model.h5
