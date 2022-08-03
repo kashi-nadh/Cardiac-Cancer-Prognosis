@@ -133,4 +133,4 @@ Data
 
 # Weights
 ccp/efcnt_model.h5
-ccp/vvg16_model.h5
+ccp/vgg16_model.h5
